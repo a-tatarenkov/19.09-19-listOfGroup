@@ -1,3 +1,9 @@
+
+.dg{
+    text-decoration: none;
+    color: blue;
+    text-transform: uppercase;
+}
 body {
     background-color: bisque;
 }
